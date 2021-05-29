@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter.com/aawazgyawali
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I just love educational content, everything from world history, economics, real estate and business.
+
+#### I am familier with
+`#android #ios #flutter #react #kotlin #swift #objc #stripe #firebase #saltedge #algolia #mongo #postgres #node #braintree #opencv`
