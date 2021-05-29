@@ -1,6 +1,4 @@
-### Hi there, I am Aawaz Gyawali also known as Avaaj
-
-Here are some ideas to get you started:
+## Hi there, I am Aawaz also known as Avaaj
 
 - 🔭 I’m currently working on a bunch of mobile/backend projects
 - 🌱 I’m currently learning Stripe, OpenCV and Saltedge
@@ -11,9 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I just love educational content, everything from world history, economics, real estate and business.
 
-#### I am familier with
+#### What I know
 
-#android #ios #flutter #react #kotlin #swift #objc #stripe #firebase #saltedge #algolia #mongo #postgres #node #braintree #opencv #ble #ibeacon #ffiConcepts #googleMaps #mapBox
+#android #ios #flutter #react #kotlin #swift #objc #stripe #firebase #saltedge #algolia #mongo #postgres #node #braintree #opencv #ble #ibeacon #ffiConcepts #googleMaps #mapBox #adsense
 
 
 #### Few blog posts (I am trying to expand it)
