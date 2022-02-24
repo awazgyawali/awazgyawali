@@ -18,3 +18,5 @@
 1. [Using Google Pay and Apple Pay on Flutter](https://dev.to/aawazgyawali/how-to-use-google-pay-and-apple-pay-using-stripe-on-flutter-2i1j)
 
 2. [Merging React Native and Flutter to create a single Android application](https://medium.com/@awazgyawali/merging-react-native-and-flutter-to-create-a-single-android-application-c49cdafc8ae9)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awazgyawali)](https://github.com/anuraghazra/github-readme-stats)
