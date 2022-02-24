@@ -19,4 +19,4 @@
 
 2. [Merging React Native and Flutter to create a single Android application](https://medium.com/@awazgyawali/merging-react-native-and-flutter-to-create-a-single-android-application-c49cdafc8ae9)
 
-![Aawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=awazgyawali&count_private=true&theme=dracula)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awazgyawali&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Aawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=awazgyawali&count_private=true&theme=dracula)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awazgyawali&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
