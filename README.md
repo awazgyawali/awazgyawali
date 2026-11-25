@@ -1,57 +1,41 @@
-## Hi, I'm Avaaj (also written Aawaz) 👋
+## Hi, I'm Avaaj
 
-I lead mobile engineering for products people use to do their jobs: retail store floors, field service routes, and a stock market app I started as a hobby.
+Some people know me as Aawaz. I'm a mobile engineer from Kathmandu and I've been shipping apps since 2015.
 
-Based in Kathmandu, working with US teams since 2020.
+These days I split my time between two products. At GreyOrange I work on gStore, the app store teams use to count inventory with RFID scanners and pick online orders. At ETTEO I've looked after the logistixAI field service app since 2020, and more recently built logistixPay, FieldFlow and Field Pulse there.
 
-### What I'm doing now
+On the side I run [Nepal Share](https://play.google.com/store/apps/details?id=com.brainants.meroshare), a stock market app for Nepal that I started as a hobby in 2017. It has passed 500K downloads and I still build all of it myself.
 
-- **GreyOrange · gStore.** Lead contributor and release owner on the in-store app retail teams use for RFID inventory counts, replenishment and order picking.
-- **ETTEO · logistixAI.** Technical owner of the field service mobile app for six years. Also built logistixPay, FieldFlow and Field Pulse.
-- **Nepal Share.** The stock market app for Nepal. 500K+ downloads, 4.3★ across 21K reviews. I build and run all of it. [Google Play](https://play.google.com/store/apps/details?id=com.brainants.meroshare)
-
-Most of my work lives in private repositories, so the contribution graph says more than the pinned repos do.
+Almost everything I work on is in private repos, so there isn't much to pin here.
 
 ### Open source
 
-Merged into the official Flutter and Firebase plugins:
+I used to send a lot of pull requests to the Flutter plugins. A few that got merged:
 
-- [Polyline support for google_maps_flutter](https://github.com/flutter-team-archive/plugins/pull/1049)
+- [Polylines for google_maps_flutter](https://github.com/flutter-team-archive/plugins/pull/1049)
 - [Collection group queries for cloud_firestore](https://github.com/flutter-team-archive/plugins/pull/1619)
-- [whereIn and arrayContainsAny queries for cloud_firestore](https://github.com/firebase/flutterfire/pull/1477)
-- firebase_auth fixes: [#1568](https://github.com/flutter-team-archive/plugins/pull/1568), [#1584](https://github.com/flutter-team-archive/plugins/pull/1584)
+- [whereIn and arrayContainsAny for cloud_firestore](https://github.com/firebase/flutterfire/pull/1477)
 
-Packages I wrote:
+I also maintain a few packages. The one people actually use is [stripe_terminal](https://pub.dev/packages/stripe_terminal), which connects Flutter apps to Stripe card readers. The others are [multipart_request](https://pub.dev/packages/multipart_request), [scan_document](https://pub.dev/packages/scan_document) and [native_http](https://pub.dev/packages/native_http).
 
-| Package | What it does |
-|---|---|
-| [stripe_terminal](https://pub.dev/packages/stripe_terminal) | Stripe card readers in Flutter, with native Kotlin and Swift bridges |
-| [multipart_request](https://pub.dev/packages/multipart_request) | Native file uploads with progress |
-| [scan_document](https://pub.dev/packages/scan_document) | Document scanning |
-| [native_http](https://pub.dev/packages/native_http) | HTTP over OkHttp and URLSession |
-| [rn_flutter](https://github.com/awazgyawali/rn_flutter) | React Native and Flutter in a single Android app |
+[rn_flutter](https://github.com/awazgyawali/rn_flutter) was an experiment in running React Native and Flutter inside the same Android app. It worked, to my surprise.
 
-### Things I like working on
+### What I enjoy
 
-- Apps that talk to hardware: RFID sleds, Bluetooth beacons, card readers
-- Offline first sync that survives a bad connection
-- Background location and geofencing in native Kotlin and Swift
-- Code generation. I never want to write boilerplate twice
-- Taking a product from the first commit to the app stores
+Apps that have to talk to hardware, like RFID sleds, Bluetooth beacons and card readers. Making things work offline. Writing code generators so I never type the same boilerplate twice.
 
-### Toolbox
-
-Flutter · Dart · Swift · Kotlin · TypeScript · Node.js · React · Firebase · MongoDB · Redis · PostgreSQL · Stripe · GitHub Actions · fastlane
+I mostly write Flutter, with Swift and Kotlin when the platform needs it, and TypeScript on the backend.
 
 ### Writing
 
+I wrote a handful of Flutter articles a while back:
+
 - [Google Pay and Apple Pay using Stripe on Flutter](https://dev.to/aawazgyawali/how-to-use-google-pay-and-apple-pay-using-stripe-on-flutter-2i1j)
 - [Merging React Native and Flutter to create a single Android application](https://medium.com/@awazgyawali/merging-react-native-and-flutter-to-create-a-single-android-application-c49cdafc8ae9)
-- More on [Medium](https://medium.com/@awazgyawali)
+- The rest are on [Medium](https://medium.com/@awazgyawali)
 
-### Say hello
+### Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/aawaz/) · awazgyawali@gmail.com
-- Open to engineering leadership roles
-- Ask me about Flutter, shipping to both app stores, or the Nepal stock market
-- Fun fact: I love educational content, from world history and economics to real estate and business
+I'm on [LinkedIn](https://www.linkedin.com/in/aawaz/), or you can email awazgyawali@gmail.com. Happy to talk about Flutter, getting apps through both stores, or the Nepal stock market.
+
+When I'm not working I'm usually watching something about history, economics or real estate.
